@@ -47,7 +47,7 @@ DealGrocer_
 
 Boughtstuff_ 
   Software Engineer *2010*
-    Created a Web 2.0 service leveraging twitter to let people know what you have bought. Uses Sinatra, Redis, EC2, S3 and Cloudfront. Automated test suites were written using Contest and Stories. Asynchronous processing done using Redis lists and a basic Ruby daemon process.
+    Created a Web 2.0 service leveraging twitter to let people know what you have bought. Uses Sinatra, Redis, EC2, S3 and Cloudfront. Automated test suites were written using `Contest`_ and `Stories`_. Asynchronous processing done using Redis lists and a basic Ruby daemon process.
 
 Recomed_ 
   Lead Software Engineer *2008 - 2010*
@@ -78,7 +78,7 @@ Education
 
 BS in Computer Science
   University of the Philippines Manila
-  *(2000 - 2004)*
+  *(2000 - 2006)*
 
 Secondary Education
   Philippine Science High School
@@ -86,6 +86,12 @@ Secondary Education
 
 Interests and Activities
 ------------------------
+
+- **RailsJam 2010**
+
+  `Ruby off Rails`_ *(Speaker)*
+
+  http://www.slideshare.net/cyx.ucron/ruby-off-rails
 
 - **PHRUG Meetup**
 
@@ -103,6 +109,9 @@ Interests and Activities
 .. _extreme programming: http://extremeprogramming.org
 .. _Stories: http://github.com/citrusbyte/stories
 .. _Contest: http://github.com/citrusbyte/contest
+.. _Cutest: http://github.com/djanowski/cutest
+.. _Capybara: https://github.com/jnicklas/capybara
+.. _Ruby off Rails: http://www.slideshare.net/cyx.ucron/ruby-off-rails
 .. _Boughtstuff: http://boughtstuff.com
 .. _Recomed: http://recomed.com
 .. _Friendster: http://friendster.com

@@ -1,0 +1,1987 @@
+%PDF-1.3
+%ìåãû ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2+0 38 0 R
+ /F3 3 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+3 0 obj
+% Font Times-Roman
+<< /BaseFont /Times-Roman
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+4 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:me@cyrildavid.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 153.7323
+ 620.7736
+ 238.7323
+ 632.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://github.com/cyx) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 153.7323
+ 590.7736
+ 258.7323
+ 602.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+6 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://twitter.com/cyx) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 153.7323
+ 575.7736
+ 263.7323
+ 587.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+7 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://cuba.is) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 172.6929
+ 511.1736
+ 192.6929
+ 523.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class PDFDictionary 
+8 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://redis.io) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 317.6929
+ 511.1736
+ 342.6929
+ 523.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class PDFDictionary 
+9 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.postgresql.org/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 362.6929
+ 511.1736
+ 412.6929
+ 523.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class PDFDictionary 
+10 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://extremeprogramming.org) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 302.6929
+ 499.1736
+ 397.6929
+ 511.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class PDFDictionary 
+11 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://github.com/djanowski/cutest) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 114.6929
+ 372.1736
+ 144.6929
+ 384.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class PDFDictionary 
+12 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com/jnicklas/capybara) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 154.6929
+ 372.1736
+ 194.6929
+ 384.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class PDFDictionary 
+13 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://github.com/soveran/ost) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 114.6929
+ 360.1736
+ 129.6929
+ 372.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class PDFDictionary 
+14 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://github.com/cyx/peons) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 139.6929
+ 360.1736
+ 164.6929
+ 372.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class PDFDictionary 
+15 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://dealgrocer.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 221.7736
+ 112.6929
+ 233.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class PDFDictionary 
+16 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://cuba.is) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 267.6929
+ 183.1736
+ 287.6929
+ 195.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class PDFDictionary 
+17 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://redis.io) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 297.6929
+ 183.1736
+ 322.6929
+ 195.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER15': class PDFDictionary 
+18 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://github.com/cyx/peons) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 352.6929
+ 183.1736
+ 377.6929
+ 195.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER16': class PDFDictionary 
+19 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://boughtstuff.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 153.7736
+ 117.6929
+ 165.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER17': class PDFDictionary 
+20 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://github.com/citrusbyte/contest) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 497.6929
+ 115.1736
+ 527.6929
+ 127.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER18': class PDFDictionary 
+21 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://github.com/citrusbyte/contest) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 82.69291
+ 103.1736
+ 87.69291
+ 115.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER19': class PDFDictionary 
+22 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://github.com/citrusbyte/stories) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 112.6929
+ 103.1736
+ 147.6929
+ 115.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+23 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R
+ 22 0 R ]
+ /Contents 49 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 48 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER20': class PDFDictionary 
+24 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://recomed.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 753.7736
+ 97.69291
+ 765.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER21': class PDFDictionary 
+25 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://friendster.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 697.7736
+ 112.6929
+ 709.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER22': class PDFDictionary 
+26 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://upstrat.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 549.7736
+ 122.6929
+ 561.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER23': class PDFDictionary 
+27 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://unistaff.us) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 493.7736
+ 197.6929
+ 505.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER24': class PDFDictionary 
+28 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.phpwact.org/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 447.6929
+ 467.1736
+ 517.6929
+ 479.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER25': class PDFDictionary 
+29 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://ivertise.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 449.7736
+ 102.6929
+ 461.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER26': class PDFDictionary 
+30 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.phpwact.org/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 167.6929
+ 423.1736
+ 237.6929
+ 435.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER27': class PDFDictionary 
+31 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.slideshare.net/cyx.ucron/ruby-off-rails) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 88.69291
+ 249.1736
+ 158.6929
+ 261.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER28': class PDFDictionary 
+32 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.slideshare.net/cyx.ucron/ruby-off-rails) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 88.69291
+ 229.7736
+ 532.5827
+ 241.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER29': class PDFDictionary 
+33 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.slideshare.net/cyx.ucron/orchestra-1499061) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 88.69291
+ 201.1736
+ 243.6929
+ 213.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page2': class PDFPage 
+34 0 obj
+% Page dictionary
+<< /Annots [ 24 0 R
+ 25 0 R
+ 26 0 R
+ 27 0 R
+ 28 0 R
+ 29 0 R
+ 30 0 R
+ 31 0 R
+ 32 0 R
+ 33 0 R ]
+ /Contents 50 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 48 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'toUnicodeCMap:AAAAAA+VL-Gothic-Regular': class PDFStream 
+35 0 obj
+<< /Length 1915 >>
+stream
+/CIDInit /ProcSet findresource begin
+12 dict begin
+begincmap
+/CIDSystemInfo
+<< /Registry (AAAAAA+VL-Gothic-Regular)
+/Ordering (AAAAAA+VL-Gothic-Regular)
+/Supplement 0
+>> def
+/CMapName /AAAAAA+VL-Gothic-Regular def
+/CMapType 2 def
+1 begincodespacerange
+<00> <80>
+endcodespacerange
+129 beginbfchar
+<00> <0000>
+<01> <0001>
+<02> <0002>
+<03> <0003>
+<04> <0004>
+<05> <0005>
+<06> <0006>
+<07> <0007>
+<08> <0008>
+<09> <0009>
+<0A> <000A>
+<0B> <000B>
+<0C> <000C>
+<0D> <000D>
+<0E> <000E>
+<0F> <000F>
+<10> <0010>
+<11> <0011>
+<12> <0012>
+<13> <0013>
+<14> <0014>
+<15> <0015>
+<16> <0016>
+<17> <0017>
+<18> <0018>
+<19> <0019>
+<1A> <001A>
+<1B> <001B>
+<1C> <001C>
+<1D> <001D>
+<1E> <001E>
+<1F> <001F>
+<20> <0020>
+<21> <0021>
+<22> <0022>
+<23> <0023>
+<24> <0024>
+<25> <0025>
+<26> <0026>
+<27> <0027>
+<28> <0028>
+<29> <0029>
+<2A> <002A>
+<2B> <002B>
+<2C> <002C>
+<2D> <002D>
+<2E> <002E>
+<2F> <002F>
+<30> <0030>
+<31> <0031>
+<32> <0032>
+<33> <0033>
+<34> <0034>
+<35> <0035>
+<36> <0036>
+<37> <0037>
+<38> <0038>
+<39> <0039>
+<3A> <003A>
+<3B> <003B>
+<3C> <003C>
+<3D> <003D>
+<3E> <003E>
+<3F> <003F>
+<40> <0040>
+<41> <0041>
+<42> <0042>
+<43> <0043>
+<44> <0044>
+<45> <0045>
+<46> <0046>
+<47> <0047>
+<48> <0048>
+<49> <0049>
+<4A> <004A>
+<4B> <004B>
+<4C> <004C>
+<4D> <004D>
+<4E> <004E>
+<4F> <004F>
+<50> <0050>
+<51> <0051>
+<52> <0052>
+<53> <0053>
+<54> <0054>
+<55> <0055>
+<56> <0056>
+<57> <0057>
+<58> <0058>
+<59> <0059>
+<5A> <005A>
+<5B> <005B>
+<5C> <005C>
+<5D> <005D>
+<5E> <005E>
+<5F> <005F>
+<60> <0060>
+<61> <0061>
+<62> <0062>
+<63> <0063>
+<64> <0064>
+<65> <0065>
+<66> <0066>
+<67> <0067>
+<68> <0068>
+<69> <0069>
+<6A> <006A>
+<6B> <006B>
+<6C> <006C>
+<6D> <006D>
+<6E> <006E>
+<6F> <006F>
+<70> <0070>
+<71> <0071>
+<72> <0072>
+<73> <0073>
+<74> <0074>
+<75> <0075>
+<76> <0076>
+<77> <0077>
+<78> <0078>
+<79> <0079>
+<7A> <007A>
+<7B> <007B>
+<7C> <007C>
+<7D> <007D>
+<7E> <007E>
+<7F> <007F>
+<80> <2022>
+endbfchar
+endcmap
+CMapName currentdict /CMap defineresource pop
+end
+endendstream
+
+endobj
+% 'fontFile:/base/data/home/apps/rst2pdf-net/1.350528802686105952/lib/reportlab/fonts/VL-Gothic-Regular.ttf(AAAAAA+VL-Gothic-Regular)': class PDFStream 
+36 0 obj
+<< /Length 9364
+ /Length1 9364 >>
+stream
+     Ä  @OS/22x÷˜   Ã   Vcmap	∏
+‹  $  cvt  !y  <   glyfû	Ê˙  @  head|–D  L   6hhea˝ã  Ñ   $hmtxM´  ®   –loca#%)T  x   »maxp ÇE  @    nameæÎY  `  postˇÜ 2  $l    prepπèÑ   $å    Ùê   äª   åäª  ﬂ 1	      † øj«˝˙       VL   @ ˇˇ\ˇt  ˝@ ü’                   Å                                                                     	 
+                        ! " # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \ ] ^ _ ` a   b !y  !  nö   .± /<≤ Ì2±‹<≤ Ì2 ± /<≤ Ì2≤¸<≤ Ì23!%!!!M˛‘˛ıö˝f!X    √  1⁄    3#53»d
+Pn⁄˝˝◊ÇÇ     }Ùw    3#3#d<™d<˛Ë˛Ë     (  Ã⁄    7537#53733733#3##7##?37#(MGPRLRAJDMRLR[LLºH‰H™™™™H‰HººººH‰     Kˇ´≥/  ! &  654#5&'55.546753&'5%::LFCAHMAJDLE:4KMA⁄:7÷WG˛ˇhe+_9˚YIL]	ffZ&Ì[I£ÉœSI   ˇˆ÷‰       2"&42"&424"24"<|˛Ñ'zEEzE˘zEEzEfhh¥hh"P˛ﬁ0RúRRú˛§RúRRú∏˝ö∏  ˇˆÔ‰ 
+ & .   ">54'.546253#'#"&54'32
+L-);(ü	/!Zí\=LwPEW!EjR]2âT63Fô(#<A3A&!ÓGQ'BTTB9c?∑Ÿ˝j1;\SkùŒOJ34  √Ù1   3#√n<˛Ë    }ˇtã   673#}¬LƒƒL(&¥∏˝‚∏  iˇtw    #6'3w¬LƒƒLN˝⁄¥∏∏    #U—Ó   37''7'7÷H†°e:aa:e°†Ó©7D2á*ää*á2D7   < 7∏+   3##5#535#ïïRïï+÷H÷÷H÷     ñˇ~J ñ   73#“xnFñ˛Ë     iãI   5!i"HH     π  ; ñ   353πÇññ    0ˇÿƒ⁄   	#ƒ˛¥HL⁄¸˛   <ˇˆ∏‰   !  2".4>&#"32>54' `D22D`D22ƒ>$0B$0‰$TìÿìT$$TìÿìT˛9SR4äs2†_4äsM8  S  T⁄   !'573≠ØRÖePi˝&  P  §‰   73!554#"5632Øı˛¨˚]\$K_UPlJHH æt-!WA^`c⁄     PˇˆÆ⁄   5#5!32#"'532654&+5J˙Y¥
+[T√IHM5@>2LFêHHÂfs‹W+EMY8H    (  Ã⁄    #3#533##%Ø±˝Û\UURN˛´HRŸ˛HØ  ZˇˆÆ⁄   3632#"'53254#"#!#¥!7†c`JGKAt`."K
+1ﬂÆÊ}sW+¶ú)ÅH    Fˇˆ∏‰  #  2&#"3632#".54>2654&#"=627F>2?WS]\AN*3[+61/3j2‰Maà2pÄÜy9íûºJ˝ZNi^L†kV   K  ©⁄ 	  5!5!#Y˛Ú^ÄRXTêHH˛ÿ˛ña     2ˇˆ¬‰  # .  ">54&"&54675.54622654' ˇ59:/499,¿hB;0>bÆb=1;B√5>}=:Fû726PK8/:˝XfbDfe7R]^Q8_hHb C?ÇMC>D  <ˇˆÆ‰  #  "'53267##"&54632"32654&◊=645F>2?TV\]DN'3[+7020192
+P_à2vÑ~w8ëÅûºJ¶L¬SSWdS    æ  6    5353æxxxÜññ˛zññ  åˇ~@    73#53»xnF<xñ˛Ëññ     7 ≥N   %5%≥˛∂J˛Ñ|˛ÃÃPıPı     < •∏Ω    5!5!<|˛Ñ|uHH–HH    A ΩN   55%5A|˛ÑJ˛PıPıPÃ    A  Ω‰    #4>7>54&#"563253ΩP! ;9U_]a[c˛˜nD)H&!&H)7]+#4)-=Z-T˝pÇÇ  #ˇˆ«‰  .  54&#"32'432354&#"327#"&54632#"&w ( "&,¬å&#7-SRPU>?;GzvywW]AKLJß),;VR?ë◊2:ç¢¶â&P¨À≈≤dd˛ªAb       ‡⁄    #3##3#˘S®».R¥d¥Vî˛ÑF“⁄˝&    Kˇˆ«‰ 	  !  32654&#"3254##"'632ù-PIHB$%5~°Û·PKKPÕ=6:MÆ;=9?˛“˛‹†åñ‹–¥=Tj    7ˇˆ©‰   4632&#"327#"&7ywB;<<•TQ>?;Gzvm≈≤K!˛—§ã&P¨    Aˇˆ—‰    4&#"32>7#"'632W^!!AK)RàFCCFâ~m®á˝≤1Üxœ®–´     P  §⁄   3#!!!¢¯¯˛¨Tí‰F˛‡H⁄H     Z  §⁄ 	  #!#3¨RJ¯Óh˛ò⁄H‰F   (ˇˆ¬‰   %#53#"&54632&#"32rõÎPZvzÄ;GB@WZß-UF˛p(≤≈ƒ≥Mêü˛—   <  ∏⁄   33###åÿTTÿP⁄˛÷*˝&h˛ò⁄    Z  ö⁄   )53#5!#3ö˛¿vv@vvFNFF˝≤   <ˇˆê⁄   #"'53265#5êWgRD]54•⁄˝‰nZW=E‘F    K  —⁄   33###3ùŒ_·Ê_”RRêJ˛¢˛Ñh˛ò⁄  d  §⁄   3!∂Ó˛¿⁄˝nH⁄   (  Ã⁄   ####333#zXPXN\wwXR˛¨T˝‰⁄˛>¬˝&  A  ≥⁄   ##333#óTTÃPP&˝⁄⁄˝⁄&˝&    (ˇˆÃ‰    2"&2>4."è÷gg÷g¶X6  6X6  ‰©˛d©©ú˛3àËà33àËà  K  «‰ 
+   4&#"3267#"'#632wHL)(MGPiq#-RNRrjOG˛‹GTxi˛‘’i   (ˇj‡‰    2#.#"&2>4."è÷gd)@XB7kg¶X6  6X6  ‰©Œ˛ÔGZ:N>©ú˛3àËà33àËà   F  ÷‰    4#"326#632#'.#rî)<WG⁄RNRplm#?V;0:Ç˛Câ˛¿’ceè2t÷ÿ@(  Fˇˆ∏‰ !  "#"'53254&'.54632&/=+2oTga[JPZq4=^QfS5D,Mú=/2A1kV^`7_Nv7H*kLPdZ:     7  Ω⁄   3#5!#—öÜöîFF˝l     <ˇˆ∏⁄   "&532653Yæ_T5n5P
+ag˝¯QCCQ˝‰g     ÷⁄   73#3˝áR™d™VáFî˝&⁄˝l     €⁄   73333###3ô6Z6-K<m77m<Sx˛˛b˝&˝¯⁄     2  ¬⁄   33###3˚pSîñZopUñîX∏"˛ù˛â1˛œwc      ÷⁄ 	  33#3˚ÑU≥R≥Zwc˛H˛ﬁ"∏  K  ©⁄   5!5!!!5O˛¸^˛¸˛¢íFF˝¥FF  åˇtÜ   #3#3Ü≤≤˙˙∆¸Í<é   0ˇÿƒ⁄   3#0HLH⁄¸˛   nˇth   53#53n˙˙≤∆<¸r<    ÷⁄   ##3#˚ìH™d™H®˛p¬˛>    2ˇt¬ˇ¨   5!2êå88  Ç^*   3#ÇxdF*˛Ë    <ˇˆÆ  $  2#'##"&546;54&#"5>#"3265 ˇdKH/fAP{z0,6!f##dÖ0™.';JPn˛¨KUSH[c9.Hˇ}-0`W   Aˇˆ«⁄    3632#"'##34#"326ê+[Ø`OT5JOËt3AA35?ΩU˛ÚááUK⁄˛*√c[
+[ca     Pˇˆ§   4632&#"327#"&Pnd=@<<?FJ@;=@=fqÜàP!dbed$Pá  -ˇˆ≥⁄    3#'##"&5323326=4&#"dOJ5TO`Ø[+Ë?53AA3t⁄˝&KUááUπbac[
+[c     7ˇˆ≥    7327#"4632%3&#"äDA=JJB◊dd[Y˛Ÿ⁄d98Í]R$PçÅ|çB°H   K  ©‰   5354632&#"3##KxBJ--&%/óóOØE<bRH/T(E˛QØ    2ˇ∏  %  32373#"'532=##"&7326=4&#"2ØS6JehGEGE~+[P_O?54@A3::UK˝˝}nP$¶PUÑÄ\][Y
+[c]  F  ∏⁄   #4&#"#33>32∏M(52GOOK-OGJ˛∂8X;p_¸⁄˛„'.[  _  ©¯ 	   3!53#5753<m˛∂ãmYf˛<DDÄDxxx   [ˇK¯    #53#52>53˘w…8XO(.'f!ÂD˝◊AH.D!$¬xx     P  Ã⁄ 
+  #'#37ÃÊÊ_ŒOOœ˙˛Ú˝˝⁄˛DÍ    FˇˆÆ⁄   %327#"&5#535!*/&Z8Å”ñBE9]
+D       ‡ #  !#.#"#33>323632#.#""NOF3''A5/M@h:'0wZ»F&*%+PAU˛Ñh;&≈  F  ∏   #4&#"#33>32∏M(52GOJN-OGJ˛∂8X;p_¸K&/[  2ˇˆ¬      6264&"2ê˛pãz99z9˝‰E[‹[[‹     <ˇ$¬    7##33632#"4#"326çOJ6SØ`O[ªt3AA35?K˛Ÿ‰KU˛Úáá√c[
+[ca  2ˇ$∏    %#"&532373#'326=4&#"g+[O`ØS6JOË?53AA3tKUááUK˝'πbac[
+[c     n  Æ   3632&#"#∫>n%!##IbOdn
+Fzc     PˇˆÆ   ""'53254&'.54632& ˇ`*6jE^¨ONMo+?\IWSTLOœI")BäL(P5N%(H>BJ#K+   Aˇˆ©≤   3#327#"&5#5353Ùµµ!02(04TBddOÙE˛Á8%FAU#Eæ    Aˇˆ©   73326=3#'##"&AM%31COJJ,MD¥T˛æS6na¸˝¯K(-V    2  ¬   733#3˚sRënëV<Ã˝¯       ‡   %33###333_1NPc61`PR11dP∏˝¯∏˛H˛H∏    7  Ω   373#'##3˚hXëë^ffZëë\1◊˛¸˛¸◊◊   -ˇ$—   %33#73uWSNØXxê˝Ê˛     P  §   !3!55#PT¯¯˛¨¯¯E˛ÑEE|    Kˇtü $  ;#"&=4&+5326=46;#"√Q!>(AIE+----+EIA(>!(<&oáH&<GOñB;<;BñOG<&Há=D   ‘ˇ$ *   3‘L‹˚˙     Uˇt© $  .=4&+532;#"+5326=471-(!>(AIE+----+EIA(>!Q<D=áH&<GOñB;<;BñOG<&Háo&  2 Ì¬k   74623253"&#"26XÇ(<6XÇ(˙4<@44<@4   † »T|   $"&462 L44L4»4L44L     ˝pp0¸_<ı Ë    ∆•«e    ∆•«eˇÏ˛Ú3             ˝˛¸  ÀˇÏ˛æ                ∞ !M  M  Ù  Ù √ } ( K   √ } i # < ñ i π 0 < S P P ( Z F K 2 < æ å 7 < A A #  K 7 A P Z ( < Z < K d ( A ( K ( F F 7 <   2  K å 0 n  2 Ç < A P - 7 K 2 F _ [ P F  F 2 < 2 n P A A 2  7 - P K ‘ U 2 †   , , , , @ V Ü ¬ Ù:HZnå¢∞æ ⁄"DlàÆ‰¸Bxäû¥»‹Pjû¿Ë :RhÜ†∞ŒÊ
+2bêƒ÷Ú&DZrÑí§∏ƒ“4VÇ™Ã		$	>	b	z	ñ	 	Ï
+
+0
+\
+x
+¶
+»
+Í
+˛:Phö®⁄Ù    c                .       )Ú        ·ƒ       	∫       ‘       )0       ~       Æ       ·       )       `      	Á            r      ∫      y     	Ò               Õ      !í     5     ê     ‰      ¥     M     ú     ı            ˚     _     ≠          T  	  ¬    	  ¶  	  ƒ  	  R‹  	  "Z  	  ê  	  "Ω  	  4Û    D C o p y r i g h t ( C )   1 9 9 0 - 2 0 0 3   W a d a   L a b o r a t o r y ,   U n i v .   o f   T o k y o . 
+ C o p y r i g h t ( C )   2 0 0 3 - 2 0 0 4   / e f o n t / . 
+ C o p y r i g h t ( C )   2 0 0 5 - 2 0 0 9   M +   F O N T S   P R O J E C T . 
+ C o p y r i g h t ( C )   2 0 0 6 - 2 0 0 9   P r o j e c t   V i n e . 
+ C o p y r i g h t ( C )   2 0 0 6 - 2 0 0 9   D a i s u k e   S U Z U K I . 
+ A l l   r i g h t s   r e s e r v e d .  Copyright(C) 1990-2003 Wada Laboratory, Univ. of Tokyo.
+Copyright(C) 2003-2004 /efont/.
+Copyright(C) 2005-2009 M+ FONTS PROJECT.
+Copyright(C) 2006-2009 Project Vine.
+Copyright(C) 2006-2009 Daisuke SUZUKI.
+All rights reserved.  V L   G o t h i c  VL Gothic  r e g u l a r  regular  F o n t F o r g e   :   V L   G o t h i c   R e g u l a r   :   2 6 - 9 - 2 0 0 6  FontForge : VL Gothic Regular : 26-9-2006  V L   G o t h i c   R e g u l a r  VL Gothic Regular  V e r s i o n   1 . 9 9 0    Version 1.990   V L - G o t h i c - R e g u l a r  VL-Gothic-Regular  h t t p : / / d i c e y . o r g / v l g o t h i c /  http://dicey.org/vlgothic/  V L  0¥0∑0√0Ø  VL ÉSÉVÉbÉN All Typographic Features Fonctions typographiques Alle typografischen Möglichkeiten Funzioni Tipografiche Alle typografische kenmerken Fractions Fractions Breuken All Type Features Toutes fonctions typographiques Alle Auszeichnungsarten Tutte le Funzioni Alle typekenmerken No Fractions Pas de Fractions Kein Bruche Nessuna Frazione Geen breuken Diagonal Fractions Fractions en Diagonale Diagonaler Bruch Frazioni Diagonali Diagonale breuken        ˇÉ 2                    πˇ  çÖ endstream
+
+endobj
+% 'fontDescriptor:AAAAAA+VL-Gothic-Regular': class PDFDictionary 
+37 0 obj
+<< /Ascent 860
+ /CapHeight 860
+ /Descent -140
+ /Flags 4
+ /FontBBox [ -20
+ -270
+ 1041
+ 1075 ]
+ /FontFile2 36 0 R
+ /FontName /AAAAAA+VL-Gothic-Regular
+ /ItalicAngle 0
+ /StemV 87
+ /Type /FontDescriptor >>
+endobj
+% 'F2+0': class PDFTrueTypeFont 
+38 0 obj
+% Font VL-Gothic-Regular subset 0
+<< /BaseFont /AAAAAA+VL-Gothic-Regular
+ /FirstChar 0
+ /FontDescriptor 37 0 R
+ /LastChar 128
+ /Name /F2+0
+ /Subtype /TrueType
+ /ToUnicode 35 0 R
+ /Type /Font
+ /Widths [ 432
+ 432
+ 432
+ 432
+ 432
+ 432
+ 432
+ 432
+ 432
+ 432
+ 432
+ 432
+ 333
+ 333
+ 432
+ 432
+ 432
+ 432
+ 432
+ 432
+ 432
+ 432
+ 432
+ 432
+ 432
+ 432
+ 432
+ 432
+ 432
+ 432
+ 432
+ 432
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 500
+ 432
+ 500 ] >>
+endobj
+% 'R39': class PDFCatalog 
+39 0 obj
+% Document Root
+<< /Outlines 41 0 R
+ /PageMode /UseNone
+ /Pages 48 0 R
+ /Type /Catalog >>
+endobj
+% 'R40': class PDFInfo 
+40 0 obj
+<< /Author ()
+ /CreationDate (D:20111003191656+00'00')
+ /Keywords ()
+ /Producer (ReportLab http://www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Resume) >>
+endobj
+% 'R41': class PDFOutlines 
+41 0 obj
+<< /Count 6
+ /First 42 0 R
+ /Last 47 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+42 0 obj
+<< /Dest [ 23 0 R
+ /Fit ]
+ /Next 43 0 R
+ /Parent 41 0 R
+ /Title (Contact Information) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+43 0 obj
+<< /Dest [ 23 0 R
+ /Fit ]
+ /Next 44 0 R
+ /Parent 41 0 R
+ /Prev 42 0 R
+ /Title (Summary) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+44 0 obj
+<< /Dest [ 23 0 R
+ /Fit ]
+ /Next 45 0 R
+ /Parent 41 0 R
+ /Prev 43 0 R
+ /Title (Skills) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+45 0 obj
+<< /Dest [ 23 0 R
+ /Fit ]
+ /Next 46 0 R
+ /Parent 41 0 R
+ /Prev 44 0 R
+ /Title (Experience) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+46 0 obj
+<< /Dest [ 34 0 R
+ /Fit ]
+ /Next 47 0 R
+ /Parent 41 0 R
+ /Prev 45 0 R
+ /Title (Education) >>
+endobj
+% 'Outline.5': class OutlineEntryObject 
+47 0 obj
+<< /Dest [ 34 0 R
+ /Fit ]
+ /Parent 41 0 R
+ /Prev 46 0 R
+ /Title (Interests and Activities) >>
+endobj
+% 'R48': class PDFPages 
+48 0 obj
+% page tree
+<< /Count 2
+ /Kids [ 23 0 R
+ 34 0 R ]
+ /Type /Pages >>
+endobj
+% 'R49': class PDFStream 
+49 0 obj
+% page stream
+<< /Length 9606 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 765.0236 cm
+Q
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm 204.9449 0 Td /F2+0 20 Tf 24 TL (Resume) Tj T* -204.9449 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 731.0236 cm
+Q
+q
+1 0 0 1 62.69291 731.0236 cm
+Q
+q
+1 0 0 1 62.69291 698.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2+0 17.5 Tf 21 TL (Contact Information) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 677.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 48.03937 0 Td /F2+0 10 Tf 12 TL (Name:) Tj T* -48.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Cyril Ucron Panganiban David) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 662.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 53.03937 0 Td /F2+0 10 Tf 12 TL (DOB:) Tj T* -53.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (October 18, 1982) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 647.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 33.03937 0 Td /F2+0 10 Tf 12 TL (Address:) Tj T* -33.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (33 Juan Luna st. U.P. Campus Diliman Q.C.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 632.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 43.03937 0 Td /F2+0 10 Tf 12 TL (Phone:) Tj T* -43.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (+639163577710) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 617.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 43.03937 0 Td /F2+0 10 Tf 12 TL (Email:) Tj T* -43.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (me@cyrildavid.com) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 602.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 28.03937 0 Td /F2+0 10 Tf 12 TL (Homepage:) Tj T* -28.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (cyrildavid.com) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 587.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 38.03937 0 Td /F2+0 10 Tf 12 TL (Github:) Tj T* -38.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (http://github.com/cyx) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 572.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 33.03937 0 Td /F2+0 10 Tf 12 TL (Twitter:) Tj T* -33.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (http://twitter.com/cyx) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 572.0236 cm
+Q
+q
+1 0 0 1 62.69291 572.0236 cm
+Q
+q
+1 0 0 1 62.69291 539.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2+0 17.5 Tf 21 TL (Summary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 485.0236 cm
+q
+BT 1 0 0 1 0 39.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (I am a software engineer with seven years of experience in web application development. I spe) Tj T* (cialize in Ruby using ) Tj 0 0 .501961 rg (Cuba) Tj 0 0 0 rg ( and more often than not ) Tj 0 0 .501961 rg (Redis) Tj 0 0 0 rg ( or ) Tj 0 0 .501961 rg (PostgreSQL) Tj 0 0 0 rg (. I am heavily influenc) Tj T* (ed by agile programming practices, specifically ) Tj 0 0 .501961 rg (extreme programming) Tj 0 0 0 rg ( and therefore focus on si) Tj T* (mplicity, testing, standards based design and continuous integration.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 485.0236 cm
+Q
+q
+1 0 0 1 62.69291 485.0236 cm
+Q
+q
+1 0 0 1 62.69291 452.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2+0 17.5 Tf 21 TL (Skills) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 444.0236 cm
+Q
+q
+1 0 0 1 62.69291 358.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 74 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 9 0 Td /F2+0 10 Tf 12 TL (\200) Tj T* -9 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 74 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Web Development) Tj T* ET
+Q
+Q
+q
+1 0 0 1 469.8898 72 cm
+Q
+q
+1 0 0 1 26 60 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 9 0 Td /F2+0 10 Tf 12 TL (\200) Tj T* -9 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Ruby, Sinatra, Cuba) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 48 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 9 0 Td /F2+0 10 Tf 12 TL (\200) Tj T* -9 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Javascript, jQuery, RequireJS) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 36 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 9 0 Td /F2+0 10 Tf 12 TL (\200) Tj T* -9 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (HAML/SASS) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 24 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 9 0 Td /F2+0 10 Tf 12 TL (\200) Tj T* -9 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (XHTML, HTML5) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 12 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 9 0 Td /F2+0 10 Tf 12 TL (\200) Tj T* -9 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 .501961 rg /F2+0 10 Tf 12 TL (Cutest) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (Capybara) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 0 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 9 0 Td /F2+0 10 Tf 12 TL (\200) Tj T* -9 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 .501961 rg /F2+0 10 Tf 12 TL (Ost) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (Peons) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 272.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 74 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 9 0 Td /F2+0 10 Tf 12 TL (\200) Tj T* -9 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 74 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (System) Tj T* ET
+Q
+Q
+q
+1 0 0 1 469.8898 72 cm
+Q
+q
+1 0 0 1 26 60 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 9 0 Td /F2+0 10 Tf 12 TL (\200) Tj T* -9 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Redis / Memcache / TokyoDB) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 48 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 9 0 Td /F2+0 10 Tf 12 TL (\200) Tj T* -9 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (PostgreSQL) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 36 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 9 0 Td /F2+0 10 Tf 12 TL (\200) Tj T* -9 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (AWS: EC2 / S3 / Cloudfront) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 24 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 9 0 Td /F2+0 10 Tf 12 TL (\200) Tj T* -9 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Nginx, Unicorn) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 12 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 9 0 Td /F2+0 10 Tf 12 TL (\200) Tj T* -9 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Monit) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 26 0 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 9 0 Td /F2+0 10 Tf 12 TL (\200) Tj T* -9 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Git) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 272.0236 cm
+Q
+q
+1 0 0 1 62.69291 272.0236 cm
+Q
+q
+1 0 0 1 62.69291 239.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2+0 17.5 Tf 21 TL (Experience) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 221.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (DealGrocer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72.69291 205.0236 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Lead Architect 2010) Tj T* ET
+Q
+Q
+q
+1 0 0 1 82.69291 169.0236 cm
+q
+BT 1 0 0 1 0 27.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Created a Groupon / Gilt inspired local site for the Philippines specializing in luxury r) Tj T* (estaurants, hotels and resorts. Uses ) Tj 0 0 .501961 rg (Cuba) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (Redis) Tj 0 0 0 rg (, and ) Tj 0 0 .501961 rg (Peons) Tj 0 0 0 rg (, deployed exclusively on Amaz) Tj T* (on AWS.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 153.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Boughtstuff) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72.69291 137.0236 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Software Engineer 2010) Tj T* ET
+Q
+Q
+q
+1 0 0 1 82.69291 89.02362 cm
+q
+BT 1 0 0 1 0 39.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Created a Web 2.0 service leveraging twitter to let people know what you have bought. Use) Tj T* (s Sinatra, Redis, EC2, S3 and Cloudfront. Automated test suites were written using ) Tj 0 0 .501961 rg (Contes) Tj T* (t) Tj 0 0 0 rg ( and ) Tj 0 0 .501961 rg (Stories) Tj 0 0 0 rg (. Asynchronous processing done using Redis lists and a basic Ruby daemon pro) Tj T* (cess.) Tj T* ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R50': class PDFStream 
+50 0 obj
+% page stream
+<< /Length 7075 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Recomed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72.69291 737.0236 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Lead Software Engineer 2008 - 2010) Tj T* ET
+Q
+Q
+q
+1 0 0 1 82.69291 713.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2+0 10 Tf 12 TL (Uses Ruby on Rails and MySQL, Rspec and Cucumber for its automated test suite. Asynchrono) Tj T* (us processing done via Delayed Job. Faceted and full text search is done with SOLR.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 697.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Friendster) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72.69291 681.0236 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Senior Programmer 2007 - 2008) Tj T* ET
+Q
+Q
+q
+1 0 0 1 82.69291 645.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F2+0 10 Tf 12 TL (Tasked with doing programming work using PHP, Zend Framework and PHPUnit. Built a custom ) Tj T* (PHP Templating system and an ActiveRecord ORM adapter using Zend's Table and Row Data Gat) Tj T* (eway underneath.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 629.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Lingosmile) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72.69291 613.0236 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Software Engineer 2006 - 2007) Tj T* ET
+Q
+Q
+q
+1 0 0 1 82.69291 565.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F2+0 10 Tf 12 TL (Used Ruby on Rails to develop a social networking inspired, crowd sourcing language trans) Tj T* (lation tool. SOLR was employed for its full text matching and faceting capability. Asynch) Tj T* (ronous processing was done using Starling. Test suite implemented through RSpec and Rspec) Tj T* ( Stories.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (UPStrat Inc.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72.69291 533.0236 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Cofounder / CTO 2005 - 2007) Tj T* ET
+Q
+Q
+q
+1 0 0 1 82.69291 509.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2+0 10 Tf 12 TL (Used Ruby and Rails heavily, and was tasked in doing domain driven design with clients, e) Tj T* (mploying agile programming practices with the end goal of delivering customer happiness.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 493.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Universal Staffing Services) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72.69291 477.0236 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Consultant/Developer 2005) Tj T* ET
+Q
+Q
+q
+1 0 0 1 82.69291 465.0236 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Built a vacancy and job seeker tracking application in PHP using and the ) Tj 0 0 .501961 rg (WACT Framework) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 449.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Ivertise) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72.69291 433.0236 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Senior Programmer 2004 - 2005) Tj T* ET
+Q
+Q
+q
+1 0 0 1 82.69291 409.0236 cm
+q
+BT 1 0 0 1 0 15.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Used PHP and the ) Tj 0 0 .501961 rg (WACT Framework) Tj 0 0 0 rg ( to develop a Content Management Framework, which up to th) Tj T* (is day is being used by the company.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 409.0236 cm
+Q
+q
+1 0 0 1 62.69291 409.0236 cm
+Q
+q
+1 0 0 1 62.69291 376.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2+0 17.5 Tf 21 TL (Education) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 358.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (BS in Computer Science) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72.69291 346.0236 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (University of the Philippines Manila \(2000 - 2004\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 330.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Secondary Education) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72.69291 318.0236 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Philippine Science High School \(1997 - 2000\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 318.0236 cm
+Q
+q
+1 0 0 1 62.69291 318.0236 cm
+Q
+q
+1 0 0 1 62.69291 285.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2+0 17.5 Tf 21 TL (Interests and Activities) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 277.0236 cm
+Q
+q
+1 0 0 1 62.69291 229.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 9 0 Td /F2+0 10 Tf 12 TL (\200) Tj T* -9 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (RailsJam 2010) Tj T* ET
+Q
+Q
+q
+1 0 0 1 26 18 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 .501961 rg /F2+0 10 Tf 12 TL (Ruby off Rails) Tj 0 0 0 rg ( \(Speaker\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (http://www.slideshare.net/cyx.ucron/ruby-off-rails) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 199.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 9 0 Td /F2+0 10 Tf 12 TL (\200) Tj T* -9 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (PHRUG Meetup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 .501961 rg /F2+0 10 Tf 12 TL (Orchestrating with Tokyo Tyrant) Tj 0 0 0 rg ( \(Speaker\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 169.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 9 0 Td /F2+0 10 Tf 12 TL (\200) Tj T* -9 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (PLUG's 2nd Quarter Free Technical Seminar 2006) Tj T* ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Ruby on Rails Talk \(Speaker\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 139.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 9 0 Td /F2+0 10 Tf 12 TL (\200) Tj T* -9 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Philippine Open Source Conference 2006) Tj T* ET
+Q
+Q
+q
+1 0 0 1 26 0 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Starting up with Ruby on Rails \(Co-Speaker\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 139.0236 cm
+Q
+q
+1 0 0 1 62.69291 139.0236 cm
+Q
+q
+1 0 0 1 62.69291 139.0236 cm
+Q
+q
+1 0 0 1 62.69291 139.0236 cm
+Q
+q
+1 0 0 1 62.69291 139.0236 cm
+Q
+q
+1 0 0 1 62.69291 139.0236 cm
+Q
+q
+1 0 0 1 62.69291 139.0236 cm
+Q
+q
+1 0 0 1 62.69291 139.0236 cm
+Q
+q
+1 0 0 1 62.69291 139.0236 cm
+Q
+q
+1 0 0 1 62.69291 139.0236 cm
+Q
+q
+1 0 0 1 62.69291 139.0236 cm
+Q
+q
+1 0 0 1 62.69291 139.0236 cm
+Q
+q
+1 0 0 1 62.69291 139.0236 cm
+Q
+q
+1 0 0 1 62.69291 139.0236 cm
+Q
+q
+1 0 0 1 62.69291 139.0236 cm
+Q
+q
+1 0 0 1 62.69291 139.0236 cm
+Q
+q
+1 0 0 1 62.69291 139.0236 cm
+Q
+q
+1 0 0 1 62.69291 139.0236 cm
+Q
+q
+1 0 0 1 62.69291 139.0236 cm
+Q
+q
+1 0 0 1 62.69291 139.0236 cm
+Q
+ 
+endstream
+
+endobj
+xref
+0 51
+0000000000 65535 f
+0000000113 00000 n
+0000000236 00000 n
+0000000401 00000 n
+0000000582 00000 n
+0000000824 00000 n
+0000001063 00000 n
+0000001303 00000 n
+0000001535 00000 n
+0000001768 00000 n
+0000002012 00000 n
+0000002260 00000 n
+0000002513 00000 n
+0000002769 00000 n
+0000003018 00000 n
+0000003265 00000 n
+0000003506 00000 n
+0000003740 00000 n
+0000003975 00000 n
+0000004222 00000 n
+0000004464 00000 n
+0000004720 00000 n
+0000004976 00000 n
+0000005217 00000 n
+0000005689 00000 n
+0000005927 00000 n
+0000006168 00000 n
+0000006406 00000 n
+0000006644 00000 n
+0000006887 00000 n
+0000007126 00000 n
+0000007369 00000 n
+0000007639 00000 n
+0000007909 00000 n
+0000008167 00000 n
+0000008584 00000 n
+0000010712 00000 n
+0000020218 00000 n
+0000020485 00000 n
+0000021520 00000 n
+0000021658 00000 n
+0000021876 00000 n
+0000022001 00000 n
+0000022155 00000 n
+0000022312 00000 n
+0000022468 00000 n
+0000022628 00000 n
+0000022787 00000 n
+0000022930 00000 n
+0000023047 00000 n
+0000032754 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\0340VO\250\221\256\233\340\032\326\303\305mOc) (\0340VO\250\221\256\233\340\032\326\303\305mOc)] 
+
+ /Info 40 0 R
+ /Root 39 0 R
+ /Size 51 >>
+startxref
+39903
+%%EOF
