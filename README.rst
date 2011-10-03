@@ -8,38 +8,42 @@ Contact Information
 :DOB:  October 18, 1982
 :Address: 33 Juan Luna st. U.P. Campus Diliman Q.C.
 :Phone: +639163577710
-:Email: cyx.ucron@gmail.com
-:Homepage: www.pipetodevnull.com
+:Email: me@cyrildavid.com
+:Homepage: cyrildavid.com
+:Github: http://github.com/cyx
+:Twitter: http://twitter.com/cyx
 
 Summary
 -------
-I am a software engineer with six years of experience in web application development. I specialize in Ruby, Rails and Sinatra. I am heavily influenced by agile programming practices, specifically `extreme programming`_ and therefore focus on simplicity, testing, standards based design and continuous integration. 
+I am a software engineer with seven years of experience in web application development. I specialize in Ruby using `Cuba`_ and more often than not `Redis`_ or `PostgreSQL`_. I am heavily influenced by agile programming practices, specifically `extreme programming`_ and therefore focus on simplicity, testing, standards based design and continuous integration. 
 
 Skills
 ------
 
 - Web Development
 
-  - Ruby, Sinatra, Rails
-  - Javascript, jQuery
-  - HAML/LESS
+  - Ruby, Sinatra, Cuba
+  - Javascript, jQuery, RequireJS
+  - HAML/SASS
   - XHTML, HTML5
-  - `Contest`_ / Shoulda / RSpec
-  - `Stories`_ / Cucumber
-  - Delayed Job / Resque
+  - `Cutest`_, `Capybara`_
+  - `Ost`_, `Peons`_
 
 - System
 
   - Redis / Memcache / TokyoDB
-  - MySQL
-  - MongoDB
+  - PostgreSQL
   - AWS: EC2 / S3 / Cloudfront
-  - Nginx, Apache, Passenger
-  - God / Monit
-  - Git / SVN
+  - Nginx, Unicorn
+  - Monit
+  - Git
 
 Experience
 ----------
+
+DealGrocer_
+  Lead Architect *2010*
+    Created a Groupon / Gilt inspired local site for the Philippines specializing in luxury restaurants, hotels and resorts. Uses `Cuba`_, `Redis`_, and `Peons`_, deployed exclusively on Amazon AWS.
 
 Boughtstuff_ 
   Software Engineer *2010*
@@ -107,3 +111,9 @@ Interests and Activities
 .. _WACT Framework: http://www.phpwact.org/
 .. _Universal Staffing Services: http://unistaff.us
 .. _Orchestrating with Tokyo Tyrant: http://www.slideshare.net/cyx.ucron/orchestra-1499061
+.. _Cuba: http://cuba.is
+.. _Redis: http://redis.io
+.. _PostgreSQL: http://www.postgresql.org/
+.. _Ost: http://github.com/soveran/ost
+.. _Peons: http://github.com/cyx/peons
+.. _DealGrocer: http://dealgrocer.com
