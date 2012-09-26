@@ -93,7 +93,7 @@ Interests and Activities
 
 - **Geek camp Baguio 2012**
 
-  `Lean Software Development`_ *(Speaker)*
+  Lean Software Development *(Speaker)*
 
 - **RailsJam 2010**
 
