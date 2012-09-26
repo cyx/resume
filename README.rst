@@ -41,6 +41,10 @@ Skills
 Experience
 ----------
 
+Citrusbyte_
+  Software Engineer *2011 - 2012*
+    Design & architect web applications for clients and internal products using Ruby, Redis, Postgresql.
+
 DealGrocer_
   Lead Architect *2010*
     Created a Groupon / Gilt inspired local site for the Philippines specializing in luxury restaurants, hotels and resorts. Uses `Cuba`_, `Redis`_, and `Peons`_, deployed exclusively on Amazon AWS.
