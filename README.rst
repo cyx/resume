@@ -91,6 +91,10 @@ Secondary Education
 Interests and Activities
 ------------------------
 
+- **Geek camp Baguio 2012**
+
+  `Lean Software Development`_ *(Speaker)*
+
 - **RailsJam 2010**
 
   `Ruby off Rails`_ *(Speaker)*
