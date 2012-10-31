@@ -6,9 +6,9 @@ Contact Information
 -------------------
 :Name: Cyril Ucron Panganiban David
 :DOB:  October 18, 1982
-:Address: 33 Juan Luna st. U.P. Campus Diliman Q.C.
-:Phone: +639163577710
-:Email: me@cyrildavid.com
+:Address: 16467 Otsego street, Encino, Los Angeles, California, 91436
+:Phone: +1 (650) 741-1443
+:Email: cyril.david@citrusbyte.com
 :Homepage: cyrildavid.com
 :Github: http://github.com/cyx
 :Twitter: http://twitter.com/cyx
@@ -42,8 +42,13 @@ Experience
 ----------
 
 Citrusbyte_
-  Software Engineer *2011 - 2012*
+  Software Engineer *2011 - Present*
     Design & architect web applications for clients and internal products using Ruby, Redis, Postgresql.
+
+OpenRedis_
+  Solutions Architect *2011- Present*
+    Program & co-architect the web application, backend system, and work on customer
+    support for day to day.
 
 DealGrocer_
   Lead Architect *2010*
@@ -135,3 +140,4 @@ Interests and Activities
 .. _Peons: http://github.com/cyx/peons
 .. _DealGrocer: http://dealgrocer.com
 .. _Citrusbyte: http://citrusbyte.com
+.. _Openredis: http://openredis.com
