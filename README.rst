@@ -15,7 +15,7 @@ Contact Information
 
 Summary
 -------
-I am a software engineer with seven years of experience in web application development. I specialize in Ruby using `Cuba`_ and more often than not `Redis`_ or `PostgreSQL`_. I am heavily influenced by agile programming practices, specifically `extreme programming`_ and therefore focus on simplicity, testing, standards based design and continuous integration. 
+I am a software engineer with eight years of experience in web application development. I specialize in Ruby using `Cuba`_ and more often than not `Redis`_ or `PostgreSQL`_. I am heavily influenced by agile programming practices, specifically `extreme programming`_ and therefore focus on simplicity, testing, standards based design and continuous integration. 
 
 Skills
 ------
